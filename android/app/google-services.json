@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694595928668",
+    "project_id": "we-task",
+    "storage_bucket": "we-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694595928668:android:160dd37470592f715ddc99",
+        "android_client_info": {
+          "package_name": "com.tripster.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694595928668-kgtc9ltvio4j9got3u3g75kc81jntb8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVLT8rjlRDkX9IFfe3TY-i8rh81_HKnEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694595928668-kgtc9ltvio4j9got3u3g75kc81jntb8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
