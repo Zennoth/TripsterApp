@@ -1,6 +1,6 @@
-# advweek5
+# tripster
 
-Advance mobile
+Tripster
 
 ## Getting Started
 
